@@ -3,9 +3,11 @@
 
 ## Internal
 
-- [Digital Explorer](https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs/tree/master/Sandbox/DE.DataSet)
-- [SFDC Extract (restricted)](https://github.dxc.com/dstevens26/SFDCGraph)
-- [Future Institute trends](https://github.dxc.com/dstevens26/AmyWebbTrends)
+- [Digital Explorer](DE.DataSet/readme.md)
+- [SFDC Extract (restricted)](https://github.dxc.com/MyDXCGraph/SFDCGraph)
+- [Future Institute trends](https://github.dxc.com/MyDXCGraph/AmyWebbTrends)
+- [IDC Digital Trends](https://github.dxc.com/MyDXCGraph/IDCTrends)
+
 
 ## External
 
