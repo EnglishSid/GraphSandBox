@@ -7,7 +7,7 @@
 - [Future Institute trends](https://github.dxc.com/MyDXCGraph/AmyWebbTrends)
 - [IDC Digital Trends](https://github.dxc.com/MyDXCGraph/IDCTrends)
 <br>
-- [:lock: SFDC Extract (restricted)](https://github.dxc.com/MyDXCGraph/SFDCGraph)
+- [SFDC Extract (restricted)](https://github.dxc.com/MyDXCGraph/SFDCGraph) :lock:
 
 
 ## External
