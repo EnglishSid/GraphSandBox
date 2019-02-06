@@ -70,3 +70,12 @@ RETURN id(n) AS id, n.name AS name, labels(n)[0] AS type, count
 ORDER BY count DESC 
 LIMIT {limit}
 ~~~
+
+## Find duplicate feature names
+
+~~~
+MATCH (n:Feature)
+WITH n.name AS name, COLLECT(n) AS nodelist, COUNT(*) AS count
+WHERE count > 1
+return name, count
+~~~

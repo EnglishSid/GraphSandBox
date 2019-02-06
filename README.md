@@ -3,6 +3,7 @@
 * [Setting up your local sandbox instance](SandboxSetup/readme.md)
 * [Sample Datasets](datasets.md)
 * [Basic Neo Queries](basicQueries.md)
+* [Connecting to a remote instance via Neo Desktop](RemoteInstance/remoteInstance.md)
 
 ### Good initial reading (watching)
 
