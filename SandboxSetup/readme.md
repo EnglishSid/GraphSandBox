@@ -23,12 +23,18 @@ How to install and configure your local Neo4j sandbox instance.
 ## Importing an existing database
 
 - Download and install 7zip to extract the required first (https://www.7-zip.org/download.html)
+    * For mac users 
+```sh
+$ brew install p7zip
+$ 7z x <filename>
+```
+
 - [Download the required dataset](../datasets.md) 
       - or download from the source provided (eg skills, DE, SFDC)
 - Ensure your database instance is not running
 - select Manage<br>
 ![Step4](images/step4.PNG)<br>
-- Open Folder (don't worry about selecting a sub-folder here - you want the root of your installation)<br>
+- Open Folder (don't worry about selecting a sub-folder here - you want the root of your installation, also remember you are only selecting 'Open Folder' not one of the menu items)<br>
 ![Step5](images/step5.PNG)<br>
 - Open the data directory
 - Open the database directory
