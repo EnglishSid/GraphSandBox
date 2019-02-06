@@ -19,7 +19,7 @@ How to install and configure your local Neo4j sandbox instance.
      - Select either `Username/password` or `Kerberos`<br>
      ![Step4](images/step4.png)
      - Enter the required credentials<br>
-     ![Step4](images/step5.png)<br>
+     ![Step5](images/step5image.png)<br>
      :bulb: Select `Use encryped connection` only if you have a secure https connection in place<br>
      - Select `Connect`
  - ![Step6](images/step6.png)<br>
@@ -31,4 +31,3 @@ How to install and configure your local Neo4j sandbox instance.
  ### Note on plug-in
  Plug-ins need to be installed manually on the remote server, there is no means remotely deploy and manage these via the neo desktop
 
- 
