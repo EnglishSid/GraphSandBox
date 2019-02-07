@@ -2,7 +2,8 @@
 
 How to install and configure your local Neo4j sandbox instance.
 
-- Download and install the Neo4j desktop application (https://neo4j.com/download/)
+- Download and install the Neo4j desktop application (https://neo4j.com/download/)<br>
+:bulb: Ensure you have version 1.1.15 or higher installed
 
 ## Setting up Neo4j Desktop to a remote connection
 
